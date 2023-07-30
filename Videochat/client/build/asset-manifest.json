@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00e09a3c.css",
+    "main.js": "/static/js/main.45e504e6.js",
+    "static/media/vidchat-bg.jpg": "/static/media/vidchat-bg.90d36ac138dfc21d7428.jpg",
+    "index.html": "/index.html",
+    "main.00e09a3c.css.map": "/static/css/main.00e09a3c.css.map",
+    "main.45e504e6.js.map": "/static/js/main.45e504e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e09a3c.css",
+    "static/js/main.45e504e6.js"
+  ]
+}
